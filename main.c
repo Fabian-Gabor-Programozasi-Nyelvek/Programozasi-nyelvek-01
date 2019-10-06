@@ -16,8 +16,7 @@ int main() {
             }
         }
         if (ossz == p)
-            printf("\n ossz = p, p= %i ",p); //!!!///
-        //printf("\n");
+            printf("\n ossz = p, p= %i ",p);
     }
 
     printf("\n");
