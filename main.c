@@ -12,7 +12,6 @@ int main() {
             printf("\n i = %i",i);
             if (p % i == 0) {
                 ossz+=i;
-
             }
         }
         if (ossz == p)
